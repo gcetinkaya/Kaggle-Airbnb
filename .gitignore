@@ -1,0 +1,8 @@
+*.zip
+*.sh
+subm*
+.ipynb_checkpoints
+Intro to ML w scikit-learn Video series.ipynb
+Temp.ipynb
+Untitled.ipynb
+ML.pem
